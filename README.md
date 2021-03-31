@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<a href="https://youtube.com/ImranSayedDev/?sub_confirmation=1" target="_blank">
-<img src="https://codeytek.com/wp-content/uploads/2020/07/stage-image.jpg" alt="profile" />
-</a>
+<img src="https://github.com/alexejklass/alexejklass/blob/main/sky.jpg?raw=true" alt="profile" />
+
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
