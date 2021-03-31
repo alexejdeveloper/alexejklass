@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/alexejklass/alexejklass/blob/main/sky.jpg?raw=true" alt="profile" />
 
 
